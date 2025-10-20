@@ -1,0 +1,13 @@
+/.gradle/
+/build/
+/out/
+/bin/
+.DS_Store
+.idea/
+*.iml
+/.vscode/
+
+# Gradle wrapper distribution caches and zips (don't commit heavy binaries)
+gradle/wrapper/gradle-wrapper.jar
+**/gradle-*-bin.zip
+**/gradle-*-all.zip
